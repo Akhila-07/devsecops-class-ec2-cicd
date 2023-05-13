@@ -1,8 +1,8 @@
 region               = "us-east-1"
 availability_zone_1a = "us-east-1a"
-vpc_id               = "vpc-0018bf3b33af1c456"
-public_subnet_1a     = "subnet-003d573d46408608e"
-instance_keypair     = "amzlinux2"
+vpc_id               = "vpc-08388240dd5d0d903"
+public_subnet_1a     = "subnet-0514b85aa36838784"
+instance_keypair     = "cicd"
 instance_type        = "t2.micro"
 instance_name        = "ubuntu-jenkins-terraform"
-security_groups_ids  = ["sg-0c79d04e2bbee6eb7"]
+security_groups_ids  = ["sg-07175d9efabcb817b"]
