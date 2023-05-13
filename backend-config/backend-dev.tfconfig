@@ -1,4 +1,4 @@
-bucket         = "dev2cicd"
+bucket         = "dev2bucketcicd"
 key            = "devops-training/ec2.tfstate"
 region         = "us-east-1"
 encrypt        = true
